@@ -1,0 +1,26 @@
+1qaz2WSX
+
+
+domena -- logiczna kolekcja obiektów
+
+global catalog ad sites and services
+
+
+
+GPO !!
+
+gpresult/r
+gpupdate/force
+
+secpol.msc - sprawdzenie lokalnych polis
+
+1. local Polices
+2. site -- lokalizacja(w site moze byc kilka domen)
+3. domain 
+4. Computer GPO
+5. User GPO
+
+
+
+polisa zmieniajaca tlo
+
